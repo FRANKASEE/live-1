@@ -12,7 +12,7 @@ timestart = datetime.now()
 
 # 读取文件内容 1
 def read_txt_file(file_path):
-    skip_strings = ['#genre#', '127.0.0.1', '192.168', '198.168', 'php.jdshipin', '[240', 'ottrrs.hl.chinamobile', '1.70.34.19:8084/udp/', '106.111.244.30:3000/rtp/', '14.145.234.231:8888/udp/', '106.111.74.38:10001/rtp/', '106.59.3.147:55555/udp/', '122.224.232.226:8888/udp/', '125.111.12.243:9999/udp/', '183.156.56.79:9999/udp/', '171.117.73.99:8082/rtp/', '60.189.61.9:9999/udp/', '/live/0701', 'ChiSheng9', 'epg.pw', '/hls/', '(576p)', '(540p)', '(360p)', '(480p)', '(180p)', '(404p)', 'r.jdshipin', 'hwltc.tv.cdn.zj.chinamobi'， 'ali.hlspull.yximgs', 'generationnexxxt', 'live.goodiptv.club', 'playtv-live.ifeng']  # 定义需要跳过的字符串数组['#', '@', '#genre#'] 
+    skip_strings = ['#genre#', '127.0.0.1', '192.168', '198.168', 'php.jdshipin', '[240', 'ottrrs.hl.chinamobile', '1.70.34.19:8084/udp/', '106.111.244.30:3000/rtp/', '14.145.234.231:8888/udp/', '106.111.74.38:10001/rtp/', '106.59.3.147:55555/udp/', '122.224.232.226:8888/udp/', '125.111.12.243:9999/udp/', '183.156.56.79:9999/udp/', '171.117.73.99:8082/rtp/', '60.189.61.9:9999/udp/', '/live/0701', 'ChiSheng9', 'epg.pw', '/hls/', '(576p)', '(540p)', '(360p)', '(480p)', '(180p)', '(404p)', 'r.jdshipin', 'hwltc.tv.cdn.zj.chinamobi', 'ali.hlspull.yximgs', 'generationnexxxt', 'live.goodiptv.club', 'playtv-live.ifeng']  # 定义需要跳过的字符串数组['#', '@', '#genre#'] 
     required_strings = ['://']  # 定义需要包含的字符串数组['必需字符1', '必需字符2'] 
 
     with open(file_path, 'r', encoding='utf-8') as file:
@@ -311,23 +311,29 @@ def process_url(url):
 if __name__ == "__main__":
     # 定义要访问的多个URL
     urls = [
-	'https://m3u.hackserver.net/txt/fmml_ipv6.txt',
-	'https://m3u.hackserver.net/txt/fmml_dv6.txt',
-	'https://raw.githubusercontent.com/YanG-1989/m3u/main/Gather.m3u',
-	'https://9295.kstore.space/ipv4.txt',
-        'http://tv.850930.xyz/kdsb.m3u',
-	'http://tv.850930.xyz/kdsb2.m3u',
-	'http://tv.850930.xyz/gather.m3u',
-	'http://120.79.4.185/new/mdlive.txt',
+	'https://raw.githubusercontent.com/yuanzl77/IPTV/main/live.txt',
+	'https://raw.githubusercontent.com/Wirili/IPTV/main/live.txt',
+	'https://raw.githubusercontent.com/LuckyLearning/myTV/6b3cb61977fe3b3ab25383e2852d001a963e6771/result.txt',
+	'https://raw.githubusercontent.com/balala2oo8/iptv/main/o.m3u',
+        'https://raw.githubusercontent.com/suxuang/myIPTV/main/ipv6.m3u',
+	'https://raw.githubusercontent.com/iptv-js/iptv-js.github.io/main/ss_itv.m3u',
+	'https://raw.githubusercontent.com/250992941/iptv/main/st1.txt',
+	'https://raw.githubusercontent.com/Guovin/TV/gd/result.txt',
+        'https://raw.githubusercontent.com/kimwang1978/collect-tv-txt/main/merged_output.txt',
+        # 'https://raw.githubusercontent.com/kimwang1978/collect-tv-txt/main/others_output.txt',
         'https://raw.githubusercontent.com/Fairy8o/IPTV/main/PDX-V4.txt',
-	'https://raw.githubusercontent.com/Fairy8o/IPTV/main/PDX-V6.txt',
-	'https://live.zhoujie218.top/tv/iptv6.txt',
-	'https://tv.youdu.fan:666/live/',
-        'https://raw.githubusercontent.com/qingwen07/awesome-iptv/main/tvbox_live_all.txt',
-	'https://raw.githubusercontent.com/vbskycn/iptv/master/tv/hd.txt',
-	'https://raw.githubusercontent.com/ssili126/tv/main/itvlist.txt',
-	'https://raw.githubusercontent.com/kimwang1978/collect-tv-txt/main/merged_output.txt',
-        'http://ttkx.live:55/lib/kx2024.txt',
+        # 'https://raw.githubusercontent.com/Fairy8o/IPTV/main/PDX-V6.txt',
+        # 'https://raw.githubusercontent.com/alonezou/yn-iptv/main/reference/MyIPTV',
+        # 'https://raw.githubusercontent.com/qist/tvbox/master/tvlive.txt',
+        # 'https://raw.githubusercontent.com/leyan1987/iptv/main/iptvnew.txt',
+        'https://raw.githubusercontent.com/maitel2020/iptv-self-use/main/iptv.txt',
+        'https://raw.githubusercontent.com/zwc456baby/iptv_alive/master/live.txt',
+        'https://raw.githubusercontent.com/frxz751113/AAAAA/main/TW.txt',
+        'https://m3u.ibert.me/txt/j_iptv.txt',
+        'https://live.fanmingming.com/tv/m3u/ipv6.m3u',
+        'https://cdn.jsdelivr.net/gh/abc1763613206/myiptv@latest/utf8/merged-simple.txt',
+        'https://gitlab.com/p2v5/wangtv/-/raw/main/wang-tvlive.txt',
+        # 'https://gitlab.com/p2v5/wangtv/-/raw/main/lunbo.txt'
     ]
 
     urls_all_lines = []
