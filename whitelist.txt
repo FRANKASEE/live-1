@@ -491,7 +491,6 @@ Thrill,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=5620&tk=e640d0a1bf70
 东森新闻,http://aktv_stream1.m16tv.cfd/stream/taiwan/null-10/AKTV.m3u8
 东森新闻,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=5269&tk=97475bb89d45$订阅源
 东森新闻,http://aktv_stream1.m16tv.cfd/stream/aktv2/null/AKTV.m3u8
-台视新闻,http://aktv_stream1.m16tv.cfd/stream/taiwan/null-15/AKTV.m3u8
 台视新闻,http://xn--94q.l5.ca/daili/Smartv.php?id=ttvnews_twn
 台视新闻,http://222.128.55.152:9080/live/ts.m3u8
 非凡新闻,http://xn--94q.l5.ca/daili/Smartv.php?id=feifannews_twn
@@ -562,7 +561,6 @@ Love Stories,https://84e619480232400a842ce499d053458a.mediatailor.us-east-1.amaz
 金鹰纪实,http://121.19.134.200:808/tsfile/live/1028_1.m3u8
 金鹰纪实,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=8115&tk=e640d0a1bf70
 金鹰纪实,http://156.238.253.62:5555/tvbox/公众号好享生活小助手/湖南.php?id=jyjs
-金鹰纪实,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=027d64&tk=822270345d4c
 金鹰纪实,http://60.7.56.33:4000/rtp/239.253.92.103:6054
 金鹰纪实,http://60.7.56.33:4000/udp/239.253.92.103:6054
 金鹰纪实,http://156.238.253.62:5555/tvbox/公众号好享生活小助手/山东酒店源扫描/山东酒店源扫描.php?ID=hls/55/index.m3u8$订阅源-720x576
@@ -577,6 +575,7 @@ Love Stories,https://84e619480232400a842ce499d053458a.mediatailor.us-east-1.amaz
 快乐垂钓,http://123.56.129.203:5431/rtp/225.1.8.71:8002$组播源
 快乐垂钓,http://123.56.129.203:5431/rtp/225.1.8.71:8002$北京电信组播源
 快乐垂钓,http://dassby.qqff.top:99/live/快乐垂钓/index.m3u8
+游戏风云,https://www.freetv.top/migu/790188417.m3u8?migutoken=0276ef43726b0a3df46f95059cfba0dc88fb58e0682005aef78c7fcce5c7101a4d1199cd5aa05c58eaed75bf3a107385ce216cf787ceb58c1839c276b121b05b72a1ec8d7c6f23c240511643c0
 游戏风云,http://dassby.qqff.top:99/live/游戏风云/index.m3u8
 游戏风云,http://60.7.56.33:4000/rtp/239.253.93.222:6400
 游戏风云,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=8917&tk=bd38c03a3ce1
