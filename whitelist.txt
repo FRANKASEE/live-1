@@ -79,7 +79,6 @@ CGTN法语,https://news.cgtn.com/resource/live/french/cgtn-f.m3u8?zshijd
 CGTN西语,https://news.cgtn.com/resource/live/espanol/cgtn-e.m3u8
 CGTN西语,https://news.cgtn.com/resource/live/espanol/cgtn-e.m3u8?zshijd
 CGTN阿语,https://news.cgtn.com/resource/live/arabic/cgtn-a.m3u8
-CCTV风云音乐,http://www.jiaocj.xyz:4000/udp/239.49.8.92:8000
 湖南卫视,http://zqh2333.top:2222/rtp/239.93.24.88:5140
 浙江卫视,http://113.65.7.94:8888/udp/239.77.0.89:5146
 浙江卫视,http://113.89.247.116:4200/udp/239.77.0.89:5146
