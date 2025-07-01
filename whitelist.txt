@@ -20,7 +20,6 @@ CCTV4,http://123.56.129.203:5431/rtp/225.1.8.4:8092
 CCTV4,http://220.169.100.41:10087/udp/239.76.245.195:1234
 CCTV4,http://220.169.100.41:10087/udp/239.76.253.96:9000
 CCTV4,http://220.169.100.41:10087/udp/239.76.253.154:9000
-CCTV4,http://220.169.100.41:10087/udp/239.76.246.96:1234
 CCTV4,http://220.169.100.41:10087/udp/239.76.253.95:9000
 CCTV4,http://220.169.100.41:10087/udp/239.76.246.154:1234
 CCTV5,http://e2.woc.iiiya.cn:28888/rtp/239.61.4.118:1025
@@ -37,7 +36,6 @@ CCTV5+,http://220.169.100.41:10087/udp/239.76.251.88:9000
 CCTV6,http://220.169.100.41:10087/udp/239.76.253.156:9000
 CCTV6,http://123.56.129.203:5431/rtp/225.1.8.90:8000
 CCTV6,http://220.169.100.41:10087/udp/239.76.246.156:1234
-CCTV7,http://220.169.100.41:10087/udp/239.76.253.157:9000
 CCTV7,http://220.169.100.41:10087/udp/239.76.246.157:1234
 CCTV7,http://123.56.129.203:5431/rtp/225.1.8.7:8104
 CCTV7,http://123.56.129.203:5431/rtp/225.1.8.107:8024
@@ -89,7 +87,6 @@ CCTV17,http://123.56.129.203:5431/rtp/225.1.8.17:8144
 CCTV17,http://e2.woc.iiiya.cn:28888/rtp/239.61.5.158:1025
 CGTN英语,https://news.cgtn.com/resource/live/english/cgtn-news.m3u8
 CGTN英语,http://220.169.100.41:10087/udp/239.76.245.66:1234
-CGTN英语,http://220.169.100.41:10087/udp/239.76.252.66:9000
 CGTN记录,http://8.138.7.223/tv/migu2.php?id=20
 CGTN俄语,http://guyue0227.eicp.net:35455/mgtv/609006446.m3u8
 CGTN俄语,http://220.169.100.41:10087/udp/239.76.246.86:1234
@@ -100,7 +97,6 @@ CGTN法语,https://news.cgtn.com/resource/live/french/cgtn-f.m3u8
 CGTN法语,https://news.cgtn.com/resource/live/french/cgtn-f.m3u8?zshijd
 CGTN法语,http://8.138.7.223/tv/migu2.php?id=23
 CGTN法语,http://ychz.myds.me:35455/mgtv/609006476.m3u8
-CGTN法语,http://guyue0227.eicp.net:35455/mgtv/609006476.m3u8
 CGTN法语,http://220.169.100.41:10087/udp/239.76.246.87:1234
 CGTN法语,http://220.169.100.41:10087/udp/239.76.253.87:9000
 CGTN法语,http://227w9f5104.zicp.fun:35455/mgtv/609006476.m3u8
@@ -266,7 +262,6 @@ Thrill,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=5620&tk=e640d0a1bf70
 中视,https://s1.m16tv.cfd/taiwan/CH-3/AKTV.m3u8
 台视,https://s2.m16tv.cfd/taiwan/CH-2/AKTV.m3u8
 台视,https://s1.m16tv.cfd/taiwan/CH-2/AKTV.m3u8
-民视,http://xn--94q.l5.ca/daili/Smartv.php?id=ftvhd_taiwan
 民视,https://s1.m16tv.cfd/taiwan/CH-1/AKTV.m3u8
 民视,https://s2.m16tv.cfd/taiwan/CH-1/AKTV.m3u8
 BBC,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs15
@@ -310,6 +305,7 @@ Love Stories,https://84e619480232400a842ce499d053458a.mediatailor.us-east-1.amaz
 CHC动作电影,http://kakaphone.pgrm.cc:9257/mgtv/644368714.m3u8
 CHC动作电影,http://8.138.7.223/tv/migu2.php?id=62
 CHC动作电影,http://220.169.100.41:10087/udp/239.76.252.243:9000
+CHC动作电影,http://guyue0227.eicp.net:35455/mgtv/644368714.m3u8
 CHC动作电影,http://api3.52tb.xyz/info?id=221&token=20221127jxwhhemby
 CHC动作电影,http://220.169.100.41:10087/udp/239.76.245.243:1234
 CHC动作电影,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=6009&tk=a0c4f6cfaba3$订阅源
@@ -327,6 +323,7 @@ CHC高清电影,http://api3.52tb.xyz/info?id=221&token=20221127jxwhhemby
 CHC高清电影,http://api2.52tb.xyz/info?id=221&token=20230218qkyjia
 CHC高清电影,http://api3.52tb.xyz/info?id=221&token=20221127jxwhhemby$订阅源
 CHC家庭影院,http://api3.52tb.xyz/info?id=220&token=20221127jxwhhemby
+CHC家庭影院,http://qwt.zhibotv.top:2016/全网通.php?id=CHC家庭影院
 CHC家庭影院,http://220.169.100.41:10087/udp/239.76.245.241:1234
 CHC家庭影院,http://kakaphone.pgrm.cc:9257/mgtv/644368373.m3u8
 CHC家庭影院,http://api3.52tb.xyz/info?id=220&token=20221127jxwhhemby$订阅源
