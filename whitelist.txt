@@ -68,6 +68,7 @@ CGTN法语,http://220.169.100.41:10087/udp/239.76.246.87:1234
 无线新闻,https://cdn.iptv8k.top/dl/jspd.php?id=2&time=20240926215313&ip=111.229.253.40$订阅源|1920x1080
 无线新闻,http://cdn.iptv8k.top/dl/jspd.php?id=2$1920x1080
 无线新闻,https://nothingbe.serv00.net/tvb.php?id=C&type=hd
+无线新闻,https://nothingbe.serv00.net/tvb.php?id=C&type=hd$订阅源
 无线新闻,https://nothingbe.serv00.net/tvb.php?id=C&type=hd$1920x1080
 无线新闻,https://nothingbe.serv00.net/tvb.php?id=C&type=hd$订阅源|1920x1080
 无线新闻,https://cdn.iptv8k.top/dl/jspd.php?id=2&time=20240926215313&ip=111.229.253.40$订阅源
