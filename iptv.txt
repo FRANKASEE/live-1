@@ -72,15 +72,14 @@ CCTV14,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/
 CCTV15,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221225601/index.m3u8
 CCTV16,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226100/index.m3u8
 CCTV17,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221225765/index.m3u8
-CCTV1,http://171.116.216.113:10010/rtp/226.0.1.157:3086
 CCTV1,http://e2.woc.iiiya.cn:28888/rtp/239.61.4.176:1025
-CCTV1,http://220.169.100.41:10087/udp/239.76.253.151:9000
 CCTV1,http://220.169.100.41:10087/udp/239.76.246.151:1234
+CCTV1,http://220.169.100.41:10087/udp/239.76.253.151:9000
 CCTV2,http://220.169.100.41:10087/udp/239.76.253.152:9000
-CCTV3,http://220.169.100.41:10087/udp/239.76.253.153:9000
 CCTV3,http://e2.woc.iiiya.cn:28888/rtp/239.61.4.117:1025
-CCTV4,http://220.169.100.41:10087/udp/239.76.253.154:9000
+CCTV3,http://220.169.100.41:10087/udp/239.76.253.153:9000
 CCTV4,http://220.169.100.41:10087/udp/239.76.253.96:9000
+CCTV4,http://220.169.100.41:10087/udp/239.76.253.154:9000
 CCTV5,http://220.169.100.41:10087/udp/239.76.254.214:9000
 CCTV5,http://e2.woc.iiiya.cn:28888/rtp/239.61.4.118:1025
 CCTV5+,http://220.169.100.41:10087/udp/239.76.253.168:9000
@@ -90,9 +89,9 @@ CCTV8,http://220.169.100.41:10087/udp/239.76.253.158:9000
 CCTV9,http://220.169.100.41:10087/udp/239.76.253.159:9000
 CCTV9,http://e2.woc.iiiya.cn:28888/rtp/239.61.5.59:1025
 CCTV11,http://220.169.100.41:10087/udp/239.76.252.251:9000
+CCTV13,http://220.169.100.41:10087/udp/239.76.251.84:9000
 CCTV13,http://e2.woc.iiiya.cn:28888/rtp/239.61.4.23:1025
 CCTV13,http://220.169.100.41:10087/udp/239.76.246.93:1234
-CCTV13,http://220.169.100.41:10087/udp/239.76.251.84:9000
 CCTV17,http://e2.woc.iiiya.cn:28888/rtp/239.61.5.158:1025
 CGTN法语,http://220.169.100.41:10087/udp/239.76.246.87:1234
 🛰️卫视频道🛰️,#genre#
@@ -274,11 +273,9 @@ CGTN法语,http://220.169.100.41:10087/udp/239.76.246.87:1234
 广东卫视,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226248/index.m3u8
 东南卫视,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226341/index.m3u8
 海南卫视,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226465/index.m3u8
-湖南卫视,http://171.116.216.113:10010/rtp/226.0.1.246:2125
 湖南卫视,http://183.184.47.145:8001/rtp/226.0.1.246:2125
 北京卫视,http://220.169.100.41:10087/udp/239.76.246.184:1234
 北京卫视,http://220.169.100.41:10087/udp/239.76.253.184:9000
-四川卫视,http://171.116.216.113:10010/rtp/226.0.1.250:2126
 四川卫视,http://183.184.47.145:8001/rtp/226.0.1.250:2126
 天津卫视,http://220.169.100.41:10087/udp/239.76.246.185:1234
 贵州卫视,http://220.169.100.41:10087/udp/239.76.252.198:9000
@@ -396,32 +393,28 @@ Nat Geo,http://streamsy.online:2999/coachj88/N93DPKS9pJ/141
 NASA,https://ntv1.akamaized.net:443/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8?
 NASA TV Public,https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master.m3u8
 凤凰中文,https://cdn.iptv8k.top/dl/jrys.php?id=19&time=20240926215313&ip=111.229.253.40
-凤凰中文,http://106.53.99.30/tv/hk.php?id=fhzw1
-凤凰中文,http://106.53.99.30/tv/hk.php?id=fhzw
 凤凰资讯,http://220.169.100.41:10087/udp/239.76.246.135:1234
-凤凰香港,http://106.53.99.30/tv/hk.php?id=fhxg1
 凤凰香港,https://cdn.iptv8k.top/dl/jrys.php?id=18&time=20240926215313&ip=111.229.253.40
 凤凰香港,http://vallest.uk/livehttpplay?channel_id=20067
-凤凰香港,http://106.53.99.30/tv/hk.php?id=fhxg
+无线新闻,http://cdn.iptv8k.top/dl/jspd.php?id=2
+无线新闻,https://nothingbe.serv00.net/tvb.php?id=C&type=hd
+无线新闻,http://cdn.iptv8k.top/dl/jspd.php?id=2$订阅源|1920x1080
 无线新闻,http://cdn.iptv8k.top/dl/jspd.php?id=2$订阅源-1920x1080
 无线新闻,https://nothingbe.serv00.net/tvb.php?id=C&type=hd$订阅源|1920x1080
-无线新闻,http://cdn.iptv8k.top/dl/jspd.php?id=2
-无线新闻,https://cdn.iptv8k.top/dl/jspd.php?id=2&time=20240926215313&ip=111.229.253.40$订阅源
 无线新闻,https://nothingbe.serv00.net/tvb.php?id=C&type=hd$|1920x1080
-无线新闻,http://cdn.iptv8k.top/dl/jspd.php?id=2$订阅源
 无线新闻,https://cdn.iptv8k.top/dl/jspd.php?id=2&time=20240926215313&ip=111.229.253.40$订阅源|1920x1080
-无线新闻,https://cdn.iptv8k.top/dl/jspd.php?id=2&time=20240926215313&ip=111.229.253.40
-无线新闻,https://nothingbe.serv00.net/tvb.php?id=C&type=hd
-无线新闻,https://cdn.iptv8k.top/dl/jspd.php?id=2&time=20240926215313&ip=111.229.253.40$1920x1080
-无线新闻,http://cdn.iptv8k.top/dl/jspd.php?id=2$订阅源|1920x1080
-无线新闻,https://nothingbe.serv00.net/tvb.php?id=C&type=hd$1920x1080
 无线新闻,http://cdn.iptv8k.top/dl/jspd.php?id=2$1920x1080
+无线新闻,https://cdn.iptv8k.top/dl/jspd.php?id=2&time=20240926215313&ip=111.229.253.40
+无线新闻,https://nothingbe.serv00.net/tvb.php?id=C&type=hd$1920x1080
+无线新闻,http://cdn.iptv8k.top/dl/jspd.php?id=2$订阅源
+无线新闻,https://cdn.iptv8k.top/dl/jspd.php?id=2&time=20240926215313&ip=111.229.253.40$订阅源
+无线新闻,https://cdn.iptv8k.top/dl/jspd.php?id=2&time=20240926215313&ip=111.229.253.40$1920x1080
 ViuTV,https://turkmedya-live.ercdn.net/tv360/tv360.m3u8$订阅源-1920x1080
-中天新闻,http://cdn.iptv8k.top/dl/jspd.php?id=23
+中天新闻,http://222.128.55.152:9080/live/fc.m3u8
 中天新闻,http://cdn.iptv8k.top/dl/jspd.php?id=1$订阅源-1920x1080
 中天新闻,http://cdn.iptv8k.top/dl/jspd.php?id=23$订阅源
-中天新闻,http://222.128.55.152:9080/live/fc.m3u8
 中天新闻,http://cdn.iptv8k.top/dl/jspd.php?id=1$订阅源
+中天新闻,http://cdn.iptv8k.top/dl/jspd.php?id=23
 中天新闻,http://cdn.iptv8k.top/dl/jspd.php?id=1
 台视新闻,http://222.128.55.152:9080/live/ts.m3u8
 三立新闻,https://cdn.iptv8k.top/dl/jrys.php?id=273&time=20240926215313&ip=111.229.253.40
@@ -430,24 +423,24 @@ ViuTV,https://turkmedya-live.ercdn.net/tv360/tv360.m3u8$订阅源-1920x1080
 寰宇新闻,http://222.128.55.152:9080/live/hy.m3u8
 东森综合台,https://cdn.iptv8k.top/dl/jrys.php?id=220&time=20240926215313&ip=111.229.253.40$订阅源-1920x1080
 东森综合台,https://cdn.iptv8k.top/dl/jrys.php?id=221&time=20240926215313&ip=111.229.253.40$订阅源-1920x1080
-东森综合台,https://cdn.iptv8k.top/dl/jrys.php?id=220&time=20240926215313&ip=111.229.253.40$订阅源
 东森综合台,https://cdn.iptv8k.top/dl/jrys.php?id=221&time=20240926215313&ip=111.229.253.40$订阅源
-东森超视,https://cdn.iptv8k.top/dl/jrys.php?id=217&time=20240926215313&ip=111.229.253.40$订阅源-1920x1080
+东森综合台,https://cdn.iptv8k.top/dl/jrys.php?id=220&time=20240926215313&ip=111.229.253.40$订阅源
 东森超视,https://cdn.iptv8k.top/dl/jrys.php?id=216&time=20240926215313&ip=111.229.253.40$订阅源
-东森超视,https://cdn.iptv8k.top/dl/jrys.php?id=216&time=20240926215313&ip=111.229.253.40$订阅源-1920x1080
+东森超视,https://cdn.iptv8k.top/dl/jrys.php?id=217&time=20240926215313&ip=111.229.253.40$订阅源|1920x1080
 东森超视,https://cdn.iptv8k.top/dl/jrys.php?id=217&time=20240926215313&ip=111.229.253.40$
 东森超视,https://cdn.iptv8k.top/dl/jrys.php?id=217&time=20240926215313&ip=111.229.253.40$1920x1080
-东森超视,https://cdn.iptv8k.top/dl/jrys.php?id=216&time=20240926215313&ip=111.229.253.40$
+东森超视,https://cdn.iptv8k.top/dl/jrys.php?id=217&time=20240926215313&ip=111.229.253.40$订阅源-1920x1080
 东森超视,https://cdn.iptv8k.top/dl/jrys.php?id=217&time=20240926215313&ip=111.229.253.40$订阅源
-东森超视,https://cdn.iptv8k.top/dl/jrys.php?id=217&time=20240926215313&ip=111.229.253.40$订阅源|1920x1080
-三立台湾,https://cdn.iptv8k.top/dl/jrys.php?id=269&time=20240926215313&ip=111.229.253.40
+东森超视,https://cdn.iptv8k.top/dl/jrys.php?id=216&time=20240926215313&ip=111.229.253.40$订阅源-1920x1080
+东森超视,https://cdn.iptv8k.top/dl/jrys.php?id=216&time=20240926215313&ip=111.229.253.40$
 三立台湾,https://cdn.iptv8k.top/dl/jrys.php?id=269&time=20240926215313&ip=111.229.253.40$订阅源
-BBC,https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/t=3840/v=pv14/b=5070016/main.m3u8
+三立台湾,https://cdn.iptv8k.top/dl/jrys.php?id=269&time=20240926215313&ip=111.229.253.40
 BBC,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs15
+BBC,https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/t=3840/v=pv14/b=5070016/main.m3u8
 FOX News,https://fox-foxnewsnow-samsungus.amagi.tv/playlist720p.m3u8
+CNA,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
 CNA,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8?zshijd
 CNA,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8
-CNA,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
 半岛新闻「阿拉伯」,http://live-hls-web-aja.getaj.net/AJA/02.m3u8?zshijd
 半岛新闻「阿拉伯」,http://live-hls-web-aja.getaj.net/AJA/02.m3u8?zshijd
 半岛新闻「阿拉伯」,http://live-hls-web-aja.getaj.net/AJA/02.m3u8?zshijd
@@ -460,7 +453,7 @@ KoreaTV,https://hlive.ktv.go.kr/live/klive_h.stream/playlist.m3u8
 金鹰纪实,http://e2.woc.iiiya.cn:28888/rtp/239.61.5.171:1025
 金鹰纪实,http://220.169.100.41:10087/udp/239.76.246.110:1234
 茶频道,http://220.169.100.41:10087/udp/239.76.245.239:1234
-CHC动作电影,http://220.169.100.41:10087/udp/239.76.245.243:1234
-CHC动作电影,https://live.chinacert.cftest5.cn/mg/?id=644368714
 CHC动作电影,http://61.184.46.85:9901/tsfile/live/1024_1.m3u8
+CHC动作电影,https://live.chinacert.cftest5.cn/mg/?id=644368714
+CHC动作电影,http://220.169.100.41:10087/udp/239.76.245.243:1234
 CHC家庭影院,http://220.169.100.41:10087/udp/239.76.252.241:9000
