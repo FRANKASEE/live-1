@@ -257,10 +257,10 @@ CCTV17,http://e2.woc.iiiya.cn:28888/rtp/239.61.5.158:1025
 东南卫视,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226341/index.m3u8
 海南卫视,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226465/index.m3u8
 湖南卫视,http://171.83.103.119:9999/rtp/239.69.1.13:9718
-湖南卫视,http://171.83.103.119:9999/rtp/239.69.1.27:9802
 湖南卫视,http://171.83.103.119:9999/rtp/239.69.2.34:11358
-四川卫视,http://171.83.103.119:9999/rtp/239.69.2.39:11388
+湖南卫视,http://171.83.103.119:9999/rtp/239.69.1.27:9802
 四川卫视,http://171.83.103.119:9999/rtp/239.69.1.28:9808
+四川卫视,http://171.83.103.119:9999/rtp/239.69.2.39:11388
 🇭🇰港澳台🇭🇰,#genre#
 凤凰中文,http://xbbhome.top:8888/udp/239.93.0.162:2192
 凤凰中文,http://xbbhome.top:8888/udp/239.93.1.9:2192
@@ -376,19 +376,19 @@ NASA TV Public,https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master.
 凤凰中文,https://cdn6.101.qzz.io/163189/fhzw
 凤凰中文,http://218.104.239.114:9901/tsfile/live/1013_1.m3u8
 凤凰资讯,http://218.104.239.114:9901/tsfile/live/1012_1.m3u8
-凤凰香港,http://cdn6.163189.xyz/163189/fhhk
 凤凰香港,http://stream-ali1.csslcloud.net/live/uEACKo2YT4ZTiHBMNM2g49d00j924NASwca4Glm436hsAvKE1L.flv
-凤凰香港,http://122.152.202.33/s/81a8a44f/index.m3u8?id=fhhk
 凤凰香港,https://cdn6.101.qzz.io/163189/fhhk
+凤凰香港,http://cdn6.163189.xyz/163189/fhhk
+凤凰香港,http://122.152.202.33/s/81a8a44f/index.m3u8?id=fhhk
 中天新闻,http://222.128.55.152:9080/live/fc.m3u8
 台视新闻,http://222.128.55.152:9080/live/ts.m3u8
 寰宇新闻,http://222.128.55.152:9080/live/hy.m3u8
-BBC,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs15
 BBC,https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/t=3840/v=pv14/b=5070016/main.m3u8
+BBC,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs15
 FOX News,https://fox-foxnewsnow-samsungus.amagi.tv/playlist720p.m3u8
-CNA,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8?zshijd
 CNA,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8
 CNA,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
+CNA,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8?zshijd
 半岛新闻「阿拉伯」,http://live-hls-web-aja.getaj.net/AJA/02.m3u8?zshijd
 半岛新闻「阿拉伯」,http://live-hls-web-aja.getaj.net/AJA/02.m3u8?zshijd
 半岛新闻「阿拉伯」,http://live-hls-web-aja.getaj.net/AJA/02.m3u8?zshijd
