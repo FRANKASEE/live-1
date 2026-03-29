@@ -147,14 +147,10 @@ http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/32212
 http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221225765/index.m3u8
 #EXTINF:-1 group-title="🇨🇳央视频道🇨🇳",CCTV1
 http://e2.woc.iiiya.cn:28888/rtp/239.61.4.176:1025
-#EXTINF:-1 group-title="🇨🇳央视频道🇨🇳",CCTV5
-http://e2.woc.iiiya.cn:28888/rtp/239.61.4.118:1025
 #EXTINF:-1 group-title="🇨🇳央视频道🇨🇳",CCTV7
 http://e2.woc.iiiya.cn:28888/rtp/239.61.5.62:1025
 #EXTINF:-1 group-title="🇨🇳央视频道🇨🇳",CCTV9
 http://e2.woc.iiiya.cn:28888/rtp/239.61.5.59:1025
-#EXTINF:-1 group-title="🇨🇳央视频道🇨🇳",CCTV17
-http://e2.woc.iiiya.cn:28888/rtp/239.61.5.158:1025
 #EXTINF:-1 group-title="🛰️卫视频道🛰️",湖南卫视
 http://27.11.53.118:8006/udp/225.0.4.75:7980
 #EXTINF:-1 group-title="🛰️卫视频道🛰️",湖南卫视
@@ -742,9 +738,9 @@ http://218.104.239.114:9901/tsfile/live/1012_1.m3u8
 #EXTINF:-1 group-title="🇭🇰港澳台🇭🇰",凤凰香港
 http://cdn6.163189.xyz/163189/fhhk
 #EXTINF:-1 group-title="🇭🇰港澳台🇭🇰",凤凰香港
-https://cdn6.101.qzz.io/163189/fhhk
-#EXTINF:-1 group-title="🇭🇰港澳台🇭🇰",凤凰香港
 http://stream-ali1.csslcloud.net/live/uEACKo2YT4ZTiHBMNM2g49d00j924NASwca4Glm436hsAvKE1L.flv
+#EXTINF:-1 group-title="🇭🇰港澳台🇭🇰",凤凰香港
+https://cdn6.101.qzz.io/163189/fhhk
 #EXTINF:-1 group-title="🇭🇰港澳台🇭🇰",中天新闻
 http://222.128.55.152:9080/live/fc.m3u8
 #EXTINF:-1 group-title="🇭🇰港澳台🇭🇰",台视新闻
