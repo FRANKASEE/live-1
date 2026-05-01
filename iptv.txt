@@ -365,8 +365,8 @@ Love Stories,https://84e619480232400a842ce499d053458a.mediatailor.us-east-1.amaz
 Nat Geo,http://streamsy.online:2999/coachj88/N93DPKS9pJ/141
 NASA,https://ntv1.akamaized.net:443/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8?
 NASA TV Public,https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master.m3u8
-凤凰中文,https://cdn6.101.qzz.io/163189/fhzw
 凤凰中文,http://218.104.239.114:9901/tsfile/live/1013_1.m3u8
+凤凰中文,https://cdn6.101.qzz.io/163189/fhzw
 凤凰资讯,http://218.104.239.114:9901/tsfile/live/1012_1.m3u8
 凤凰香港,http://cdn6.163189.xyz/163189/fhhk
 凤凰香港,http://stream-ali1.csslcloud.net/live/uEACKo2YT4ZTiHBMNM2g49d00j924NASwca4Glm436hsAvKE1L.flv
