@@ -373,9 +373,9 @@ NASA TV Public,https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master.
 寰宇新闻,http://222.128.55.152:9080/live/hy.m3u8
 BBC,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs15
 FOX News,https://fox-foxnewsnow-samsungus.amagi.tv/playlist720p.m3u8
+CNA,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
 CNA,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8
 CNA,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8?zshijd
-CNA,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
 半岛新闻「阿拉伯」,http://live-hls-web-aja.getaj.net/AJA/02.m3u8?zshijd
 半岛新闻「阿拉伯」,http://live-hls-web-aja.getaj.net/AJA/02.m3u8?zshijd
 半岛新闻「阿拉伯」,http://live-hls-web-aja.getaj.net/AJA/02.m3u8?zshijd
@@ -386,10 +386,10 @@ KoreaTV,https://hlive.ktv.go.kr/live/klive_h.stream/playlist.m3u8
 🥝精品频道🥝,#genre#
 第一财经,http://a1live.livecdn.yicai.com/live/radio_tv.m3u8
 金鹰纪实,http://e2.woc.iiiya.cn:28888/rtp/239.61.5.171:1025
-CHC动作电影,http://198.204.228.26/live/chcdz.m3u8
 CHC动作电影,http://107.150.60.122/live/chcdz.m3u8
-CHC家庭影院,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=chcjt
-CHC家庭影院,http://198.204.228.26/live/chcjt.m3u8
-CHC家庭影院,https://live.264788.xyz/channel/chcjiatingyingyuan?streamid=136f530a61d26dc0f670f39f05291586&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
+CHC动作电影,http://198.204.228.26/live/chcdz.m3u8
 CHC家庭影院,http://107.150.60.122/live/chcjt.m3u8
+CHC家庭影院,http://198.204.228.26/live/chcjt.m3u8
+CHC家庭影院,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=chcjt
+CHC家庭影院,https://live.264788.xyz/channel/chcjiatingyingyuan?streamid=136f530a61d26dc0f670f39f05291586&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
 CHC家庭影院,http://192.151.150.154/live/chcjt.m3u8
